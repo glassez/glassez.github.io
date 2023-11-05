@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="990"
-   height="300"
-   viewBox="0 0 990 300"
+   width="2800"
+   height="800"
+   viewBox="0 0 2800 800"
    fill="none"
    version="1.1"
    id="svg67"
-   sodipodi:docname="webmoney1.svg"
+   sodipodi:docname="webmoney.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,18 +21,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.56767677"
-     inkscape:cx="421.89502"
-     inkscape:cy="54.608541"
+     inkscape:zoom="0.14191919"
+     inkscape:cx="1176.726"
+     inkscape:cy="98.647686"
      inkscape:window-width="1350"
      inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g60" />
+     inkscape:current-layer="svg67"
+     height="900px" />
   <g
      clip-path="url(#clip0_1508_1885)"
-     id="g60">
+     id="g60"
+     transform="matrix(3,0,0,3,-78.06937,-57.0011)">
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
@@ -51,8 +53,10 @@
       <rect
          width="990"
          height="300"
-         fill="white"
-         id="rect62" />
+         fill="#ffffff"
+         id="rect62"
+         x="0"
+         y="0" />
     </clipPath>
   </defs>
 </svg>
